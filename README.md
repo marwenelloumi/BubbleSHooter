@@ -16,3 +16,5 @@ To install this project you need to add SFML library to the project directory:
 https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 and then run with the visual studio debugger
 
+
+[présentation finale.pptx](https://github.com/marwenelloumi/BubbleSHooter/files/9252358/presentation.finale.pptx)
